@@ -23,7 +23,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/AbdullahMehdi211/plant-disease-detection.git
+git clone https://github.com/AbdullahMehdi211/Plant-Diseases-Detection
 cd plant-disease-detection
 
 
